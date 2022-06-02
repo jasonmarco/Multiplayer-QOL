@@ -13,7 +13,7 @@ Generate the modpack's dependency strings using **r2modman**. From the desired p
 ```text
 bbepis-BepInExPack-5.4.1905
 RiskofThunder-HookGenPatcher-1.2.3
-KingEnderBrine-ProperSave-2.8.3
+KingEnderBrine-ProperSave-2.8.4
 tristanmcpherson-R2API-4.3.21
 dan8991iel-LunarCoinShareOnPickup-4.2.1
 XoXFaby-BetterUI-2.6.1
@@ -28,7 +28,7 @@ Bubbet-SkipIntro-1.0.0
 ````markdown
 -	[BepInExPack-5.4.1905](https://thunderstore.io/package/bbepis/BepInExPack/5.4.1905/)
 -	[HookGenPatcher-1.2.3](https://thunderstore.io/package/RiskofThunder/HookGenPatcher/1.2.3/)
--	[ProperSave-2.8.3](https://thunderstore.io/package/KingEnderBrine/ProperSave/2.8.3/)
+-	[ProperSave-2.8.4](https://thunderstore.io/package/KingEnderBrine/ProperSave/2.8.4/)
 -	[R2API-4.3.21](https://thunderstore.io/package/tristanmcpherson/R2API/4.3.21/)
 -	[LunarCoinShareOnPickup-4.2.1](https://thunderstore.io/package/dan8991iel/LunarCoinShareOnPickup/4.2.1/)
 -	[BetterUI-2.6.1](https://thunderstore.io/package/XoXFaby/BetterUI/2.6.1/)

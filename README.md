@@ -12,7 +12,7 @@ Quality-of-life modpack that doesn't change vanilla gameplay.
 
 -	[BepInExPack-5.4.1905](https://thunderstore.io/package/bbepis/BepInExPack/5.4.1905/)
 -	[HookGenPatcher-1.2.3](https://thunderstore.io/package/RiskofThunder/HookGenPatcher/1.2.3/)
--	[ProperSave-2.8.3](https://thunderstore.io/package/KingEnderBrine/ProperSave/2.8.3/)
+-	[ProperSave-2.8.4](https://thunderstore.io/package/KingEnderBrine/ProperSave/2.8.4/)
 -	[R2API-4.3.21](https://thunderstore.io/package/tristanmcpherson/R2API/4.3.21/)
 -	[LunarCoinShareOnPickup-4.2.1](https://thunderstore.io/package/dan8991iel/LunarCoinShareOnPickup/4.2.1/)
 -	[BetterUI-2.6.1](https://thunderstore.io/package/XoXFaby/BetterUI/2.6.1/)
@@ -23,5 +23,8 @@ Quality-of-life modpack that doesn't change vanilla gameplay.
 -	[SkipIntro-1.0.0](https://thunderstore.io/package/Bubbet/SkipIntro/1.0.0/)
 
 ## Changelog
+
+### 1.0.1
+- Update KingEnderBrine-ProperSave to 2.8.4
 ### 1.0.0 
 - Initial release
